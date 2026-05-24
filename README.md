@@ -11,10 +11,10 @@ To write a program to predict daily temperature , PM2.5 pollution level and Ener
 2. Anaconda – Python 3.7 Installation / Jupyter notebook
 
 ## Algorithm
-1. 
-2. 
-3. 
-4. 
+1.Load the database
+2.train the model 
+3.predict the result 
+ 
 
 ## Program:
 ```
@@ -145,4 +145,4 @@ for target in targets:
 
 
 ## Result:
-
+Thus,the program to implement the daily temperature,PM2.5 pollution level and Energy bassed on environmental sensor data using Random Forest Algorithm is written and verfied using python programming.
